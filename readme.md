@@ -6,7 +6,7 @@
 This Power BI HR Dashboard is designed to provide insights into various HR-related metrics and actions that require attention. The dashboard is divided into three main pages: "Home," "Action," and "Details."
 
 ### Page 1: Home
-![Dashboard Preview](home.png)
+![Dashboard Preview](Home.png)
 The "Home" page offers an overview of key HR metrics, as well as quick access to action items. Here are the components on this page:
 
 - **Total Employees:** Total number of employees in the organization.
